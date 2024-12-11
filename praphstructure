@@ -1,0 +1,6 @@
+chatbot-project/
+│
+├── chatbot.py        # Python code for the chatbot
+├── requirements.txt  # List of dependencies (if any)
+├── README.md         # Project description
+└── .gitignore        # To ignore unnecessary files/folders (e.g., virtual environments)
